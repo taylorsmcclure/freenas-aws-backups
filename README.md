@@ -41,14 +41,17 @@ You can change the default lifecycle days in the `vars.tf` file or pass a parame
 6) Go to your FreeNAS UI in your web browser.
 
 7) Add your cloud credentials.
+
 ![cloud-creds1](./images/cloud-creds1.png)
 
 ![cloud-creds2](./images/cloud-creds2.png)
 
 8) Setup the Cloud Sync task to your new bucket.
+
 ![cloud-sync1](/images/cloud-sync1.png)
 
 ![cloud-sync1](/images/cloud-sync2.png)
 
 9) (Optional) Run the sync task now.
+
 ![cloud-sync1](/images/cloud-sync3.png)
